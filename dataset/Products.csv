@@ -1,0 +1,4 @@
+,ProductId (int),ProductName (varchar100),Description (varchar300),BuyPrice (decimal)
+0,1,Harley Davidson Chopper,"This replica features working kickstand, front suspension, gear-shift lever",R150.75
+1,2,Classic Car,"Turnable front wheels, steering function",R550.75
+2,3,Sports car,"Turnable front wheels, steering function",R700.60

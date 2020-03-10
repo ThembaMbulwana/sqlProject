@@ -1,0 +1,4 @@
+,OrderId (int),ProductID (int),PaymentID (int),FulfilledByEmployeeID (int),DateRequired (datetime),DateShipped (datetime),Status (varchar20)
+0,1,1,1,2,05-09-2018,,Not shipped
+1,2,1,2,2,04-09-2018,03-09-2018,Shipped
+2,3,3,3,3,06-09-2018,,Not shipped

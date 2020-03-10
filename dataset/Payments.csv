@@ -1,0 +1,4 @@
+,CustomerId (int),PaymentID (int),PaymentDate (datetime),Amount (decimal)
+0,1,1,01-09-2018,R150.75
+1,5,2,03-09-2018,R150.75
+2,4,3,03-09-2018,R700.60

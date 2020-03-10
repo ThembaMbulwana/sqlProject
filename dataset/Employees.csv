@@ -1,0 +1,4 @@
+,EmployeeID (int),FirstName (varchar50),LastName (varchar50),Email (varchar100),JobTitle (varchar20)
+0,1,Kani,Matthew,mat@gmail.com,Manager
+1,2,Lesly,Cronje,LesC@gmail.com,Clerk
+2,3,Gideon,Maduku,m@gmail.com,Accountant
